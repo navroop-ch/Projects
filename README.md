@@ -1,4 +1,4 @@
-Image convertor to Vangogh Style Painting using ResNet and Unet Transformers
+**Image convertor to Vangogh Style Painting using ResNet and Unet Transformers
 
 Artistic Image Translation using CycleGAN
 
